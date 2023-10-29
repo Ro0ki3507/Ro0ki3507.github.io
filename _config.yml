@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: Ro0ki3507
 subtitle: "Always a Long-life learner"
-email: blcentra@gmail.com
-name: Ben Centra
+email: 
+name: Samuel Lao
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: samuelsie_ky
+    url: https://twitter.com/samuelsie_ky
     desc: Follow me on Twitter
     share: true
 
@@ -88,19 +88,19 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: Ro0ki3507
+    url: https://github.com/Ro0ki3507
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Samuel Lao
+    url: https://www.linkedin.com/in/samuel-sie-ky-lao-guevara-2b665a5a/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube

@@ -9,7 +9,7 @@ main_nav: true
 
 Cybersecurity enthusiast, working as SOC analyst full time and also delivering pentesting as freelancer. 
 
-Around 6 years of experience, in more recent years I've been very interested in Offensive Security field. 
+Around 6 years of experience in information security (more than 13 years in IT Networks), in more recent years I've been very interested in Offensive Security field. 
 
 I hope this blog can help you with tips and tools to evaluate vulnrabilities and security posture in your environments/networks. 
 
